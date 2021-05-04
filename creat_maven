@@ -1,0 +1,7 @@
+1.到 https://issues.sonatype.org/ 註冊帳號
+2.创建一个issue
+3.Group ID 是重點,跟官網網址有關
+  如果是用 github 做為官網
+  到github開一個倉庫 (user name).github.io 
+  sonatype 會給提示
+4.建立一個  OSSRH-* 開頭的倉庫(詳細字串會在評論提示)
